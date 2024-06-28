@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "c:/ROBOCORP/my-rsb-robot/."
+    ],
+    "python.terminal.activateEnvironment": false
+}
