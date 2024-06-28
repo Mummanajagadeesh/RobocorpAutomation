@@ -5,7 +5,7 @@
 *.md linguist-documentation=false
 *.md linguist-detectable=true
 
-*.yml linguist-vendored=false
-*.yml linguist-generated=false
-*.yml linguist-documentation=false
-*.yml linguist-detectable=true
+*.yaml linguist-vendored=false
+*.yaml linguist-generated=false
+*.yaml linguist-documentation=false
+*.yaml linguist-detectable=true
